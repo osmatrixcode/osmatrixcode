@@ -2,8 +2,8 @@
 
 ## 💫 All About Me:
 I am a second year BSc Computer Science & Mathematics student at The University of Manchester. I am passionate about all things related to computer science and technology, ranging from web development to machine learning and artificial intelligence, as well as game and app development.
-* Check out my [coding portfolio!](https://github.com/osmatrixcode)
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+* Check out my [coding portfolio!](https://ameerosman.super.site/)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-osman-yousufzia/)
 
 ## 🚀 What I'm Currently Up To
 * Making games on Roblox, specifically using [roblox-ts](https://roblox-ts.com/), [Rojo](https://rojo.space/) and [Knit](https://sleitnick.github.io/Knit/).

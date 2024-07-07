@@ -1,5 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Ameer Osman Yousufzia
 
+---
+## 🚀 What I'm Up To
+---
+## 🚀 What I'm Up To
+---
+## 🎓 About Me
+---
+## 🌐 Connect with me:
+---
+## 💻 Tech Stack:
+---
 <!--
 **osmatrixcode/osmatrixcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

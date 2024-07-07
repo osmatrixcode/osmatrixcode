@@ -1,4 +1,6 @@
-<h1 align="center">💫 About Me:</h1>
+<h1 align="center">Hi 👋 I'm Ameer Osman Yousufzia </h1>
+
+## 💫 About Me:
 
 ## 🚀 What I'm Up To
 

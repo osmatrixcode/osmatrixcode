@@ -1,6 +1,4 @@
-# Hi 👋 I'm Ameer Osman Yousufzia
-
-## 💫 About Me:
+<h1 align="center">💫 About Me:</h1>
 
 ## 🚀 What I'm Up To
 

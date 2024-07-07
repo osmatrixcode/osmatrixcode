@@ -2,8 +2,8 @@
 
 ## 💫 All About Me:
 I am a second year BSc Computer Science & Mathematics student at The University of Manchester. I am passionate about all things CS and tech, ranging from web development, to ML and AI, to even game and app development.
-Check out my [coding portfolio!](https://github.com/osmatrixcode)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+* Check out my [coding portfolio!](https://github.com/osmatrixcode)
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ## 🚀 What I'm Currently Up To
 * Making games on Roblox, specifically using roblox-ts, Rojo and Knit.

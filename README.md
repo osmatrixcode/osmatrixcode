@@ -8,6 +8,8 @@ I am a second year BSc Computer Science & Mathematics student at The University 
 ## 🚀 What I'm Currently Up To
 * Making games on Roblox, specifically using [roblox-ts](https://roblox-ts.com/), [Rojo](https://rojo.space/) and [Flamework](https://flamework.fireboltofdeath.dev/).
 * Making web applications with [Spring Boot](https://spring.io/) and [SQL](https://en.wikipedia.org/wiki/SQL).
+*  Learning the basics of [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 

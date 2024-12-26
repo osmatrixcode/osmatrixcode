@@ -6,7 +6,7 @@ I am a BSc Computer Science & Mathematics student at The University of Mancheste
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-osman-yousufzia/)
 
 ## 🚀 What I'm Currently Up To
-* Learning [C++](https://en.wikipedia.org/wiki/C%2B%2B) by reading and solving problems from the book [Programming: Principles and Practice Using C++ by Bjarne Stroustrup](https://www.stroustrup.com/programming.html)
+* Learning [C++](https://en.wikipedia.org/wiki/C%2B%2B) from the book [Programming: Principles and Practice Using C++ by Bjarne Stroustrup](https://www.stroustrup.com/programming.html)
 * Making full-stack web applications with [React](https://react.dev/), [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet), and [SQL Server](https://en.wikipedia.org/wiki/Microsoft_SQL_Server)
 * Developing games using [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) with the [Unity Game Engine](https://unity.com/)
 

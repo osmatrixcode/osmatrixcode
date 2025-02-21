@@ -2,7 +2,6 @@
 
 ## 💫 All About Me:
 I am a BSc Computer Science & Mathematics student at The University of Manchester, passionate about all aspects of computer science and technology.
-* Check out my [portfolio website!](https://ameerosman.super.site/)
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ameer-osman-yousufzia/)
 
 ## 🚀 What I'm Currently Up To

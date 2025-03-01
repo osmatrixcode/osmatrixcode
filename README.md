@@ -27,9 +27,10 @@ I am a BSc Computer Science & Mathematics student, passionate about all aspects 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+<!--
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+-->
 
 <!--
 **osmatrixcode/osmatrixcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

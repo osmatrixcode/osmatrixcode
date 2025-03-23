@@ -2,7 +2,7 @@
 
 ### A bit about me
 
-I like Brazilian jiu-jitsu, MMA, reading and coding (and vim keybindings btw 🖥️).
+I like Brazilian jiu-jitsu, MMA, reading and coding (and vim motions btw 🖥️).
 
 Someone must’ve `go mod init`-iated a party 🐹🎊
 

@@ -9,4 +9,4 @@ Someone must’ve `go mod init`-iated a party 🐹🎊
 ![gopher dancing](./dancing-gopher.gif)
 ![gopher dancing](./dancing-ferris-unscreen.gif)
 ![gopher dancing_party](./party-gopher.gif)
-dancing-ferris-unscreen.gif
+
